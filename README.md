@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JiiPlus
-- 👀 Specializes in security and protection issues on android
+- 🐓 Hi, I’m @JiiPlus
+- 🐔 Specializes in security and protection issues on android
